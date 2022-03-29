@@ -1,0 +1,4 @@
+*.tar
+*.npy
+*.npz
+.ipynb_checkpoints/
